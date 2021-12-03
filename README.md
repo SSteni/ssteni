@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Computer Vision Problems
-- - 📫 You can reach me @ stenisebastian0@gmail.com
+- 📫 You can reach me @ stenisebastian0@gmail.com
 
 <!--
 **SSteni/ssteni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
